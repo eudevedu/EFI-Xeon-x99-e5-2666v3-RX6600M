@@ -1,7 +1,7 @@
 # Hackintosh Machinist MR9A x99 Intel Xeon E5 2666V3 + RX 6600M
-<div align="center">
+
   ![Design sem nome](https://github.com/eudevedu/EFI-Xeon-x99-e5-2666v3-RX6600M/assets/72777045/95d2d859-0df2-446f-8431-565e758deaf8)
-</div>
+
 # Resumo:
 <div align="center">
   
